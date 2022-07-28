@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php  include 'header.php';?>
+<?php include 'header.php'; ?>
 <!--page title start-->
 
 <section class="page-title overflow-hidden grey-bg" style="background-color: #f3c894;">
-    <div class="container" >
-      <div class="row align-items-center">
-        <div class="col-lg-6 col-md-12">
-          <h1 class="title mb-0">ERP and <br> <span>CRM</span></h1>
-        </div>
-        
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 col-md-12">
+        <h1 class="title mb-0">ERP and <br> <span>CRM</span></h1>
       </div>
+
     </div>
-  </section>
-  
-  <!--page title end-->
+  </div>
+</section>
+
+<!--page title end-->
 
 
 
@@ -26,44 +26,66 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-12">
-        <div class="left-side">
-          <div>
+        <div class="left-side-web">
+          <div class="web-1 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/5.png" alt="">
+              <img class="img-fluid w-100" src="images/service/reactJs.png" alt="">
+              <p class="inner-text">The very first benefit of ERP solutions is the instant manual labour-saving. In the age of machines, a highly updated system is the first requirement of any business. Our ERP solutions will assist you inmanaging finances, manufacturing, data collection, and other operations that earlier required amanual medium.</p>
             </div>
-          
+          </div>
+          <div class="web-2 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/angular-1.png" alt="">
+              <p class="inner-text">A unified place for all your information not only makes accessing the information easier but also increases the efficiency of the work force by saving time and resources. You can enhance your database and keep a check on the existing data whenever you like.</p>
+            </div>
+          </div>
+          <div class="web-3 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
+              <p class="inner-text">With ERP Solutions, you can access data quickly so that you can generate quick reports with effective analysis hassle-free. This will also reflect in your business decisions and analyse the operations of your workplace.</p>
+            </div>
+          </div>
+          <div class="web-4 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
+              <p class="inner-text">Any kind of data breach can be detrimental to your organization and a secure and customizablesystem is extremely important. An Enterprise Resource Planning System allows you to grant different levels of access to different users and protect confidential information. This ensures the minimum risk of a data breach and eliminatesall sorts of threats.</p>
+            </div>
+          </div>
+          <div class="web-5 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/nodejs.png" alt="">
+              <p class="inner-text">In addition, ERP integrates easily with employee-customer interaction allowing employees and customers to interact more effectively and provide better customer service with sufficient customer information.</p>
+            </div>
+          </div>
+          <div class="web-6 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/html-css.jpg" alt="">
+              <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            </div>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-12 sidebar mt-5 mt-lg-0">
         <div class="widget mb-5">
           <div class="sidebar-links">
-            <ul class="list-unstyled">
-              <li class="active"><a href="outpatient-depertment.html"><i class="fas fa-angle-right"></i>Angular</a>
+            <ul class="list-unstyled list-unstyled-web">
+              <li class="menu-tab" id="web-1"><a><i class="fas fa-angle-right"></i> PROCESS AUTOMATION</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> React Js</a>
+              <li class="menu-tab" id="web-2"><a><i class="fas fa-angle-right"></i> Keep All Data in One Location</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Ios</a>
+              <li class="menu-tab" id="web-3"><a><i class="fas fa-angle-right"></i> Comprehensive Reporting</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Android</a>
+              <li class="menu-tab" id="web-4"><a><i class="fas fa-angle-right"></i> Enhanced Security</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i>Flutter</a>
+              <li class="menu-tab" id="web-5"><a><i class="fas fa-angle-right"></i> CustomerService</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Java SpringBoot</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> .Net</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Aws</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Cloud Services</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Html CSS</a>
-              </li> 
+              <!--<li class="menu-tab" id="web-6"><a><i class="fas fa-angle-right"></i> Html CSS</a>-->
+              <!--</li>-->
             </ul>
           </div>
         </div>
-      
-      
+
+
       </div>
     </div>
   </div>
@@ -73,52 +95,52 @@
 
 <section class="text-center  py-5" style="background-color: #FDCCAE">
   <div class="container">
-    
-    <br/>
+
+    <br />
     <div class="row">
       <div class="col-md-6">
-        <img src="https://grovetech.in/images/cms-development-banner-hero.png"  />
+        <img src="https://grovetech.in/images/cms-development-banner-hero.png" />
       </div>
       <div class="col-md-6">
-         <div class="service-details mt-4" style="text-align: left;"> 
-              <h2 class="title" >ERP and <span>CRM</span></span></h2>
-              <p class="lead">We provide you the best CRM and ERP services with the most possible and innovative way that will increase the overall profitability of your business.
+        <div class="service-details mt-4" style="text-align: left;">
+          <h2 class="title">ERP and <span>CRM</span></span></h2>
+          <p class="lead">We provide you the best CRM and ERP services with the most possible and innovative way that will increase the overall profitability of your business.
 
-              
 
-              </p>
-             <p class="mb-0">  Cloud services offer powerful benefits for the enterprise, from greater productivity and enhanced efficiency to significant cost reductions and simplified IT management. Enterprise cloud computing can also enable the mobile services that employees increasingly use when accessing corporate data and applications.</p>
-              <br>
+
+          </p>
+          <p class="mb-0"> Cloud services offer powerful benefits for the enterprise, from greater productivity and enhanced efficiency to significant cost reductions and simplified IT management. Enterprise cloud computing can also enable the mobile services that employees increasingly use when accessing corporate data and applications.</p>
+          <br>
+        </div>
       </div>
-      </div>
-     
-       
+
+
     </div>
     <br><br>
-  
+
   </div>
 </section>
 
-<section class="text-center  py-5" >
+<section class="text-center  py-5">
   <div class="container">
-    
-    <br/>
+
+    <br />
     <div class="row">
       <div class="col-md-12">
-        <h2 class="title" >Let's <span>Join us</span></h2>
+        <h2 class="title">Let's <span>Join us</span></h2>
         <p class="lead">We are always looking to hire the right talent to
           help us grow
         </p>
-        <button class="btn btn-theme btn-radius"><span><a href="<?php echo $_SERVER['HTTP_HOST'].'/../contactus.php' ?>"  style="color: #ffff;">Contact Us</a></span>
+        <button class="btn btn-theme btn-radius"><span><a href="<?php echo $_SERVER['HTTP_HOST'] . '/../contactus.php' ?>" style="color: #ffff;">Contact Us</a></span>
         </button>
       </div>
-     
-      </div>
-     
-       
+
     </div>
-    <br><br>
-  
+
+
+  </div>
+  <br><br>
+
   </div>
 </section>
 <!--video start-->
@@ -211,10 +233,10 @@
               </div>
             </div>
           </div>
-      
+
+        </div>
       </div>
     </div>
-  </div>
 </section>
 
 <!--service end-->
@@ -237,7 +259,7 @@
             <button data-filter="" class="is-checked">All</button>
             <button data-filter=".cat1">Frontend</button>
             <button data-filter=".cat2">Backend</button>
-       
+
           </div>
         </div>
       </div>
@@ -339,8 +361,27 @@
       </div>
     </div>
   </section>
-  
+
   <!--gallery end-->
-<?php  include 'footer.php';?>
+  <?php include 'footer.php'; ?>
+  <script>
+    $(document).ready(function() {
+      $("#web-1").addClass("active");
+      $(".left-side-web .common-tab").hide();
+      $(".left-side-web .web-1").show();
+    });
+    $(document).ready(function() {
+      $(".list-unstyled-web .menu-tab").click(function() {
+        var tab_id = $(this).attr('id');
+        $(".menu-tab").removeClass("active");
+        $(this).addClass("active");
+        const myArray = tab_id.split("-");
+        var active_tab = "web-" + myArray[1];
+        // console.log(active_tab);
+        $(".left-side-web .common-tab").hide();
+        $(".left-side-web ." + active_tab).show();
+      });
+    });
+  </script>
 
 </html>

@@ -10,7 +10,7 @@
           <div class="row">
             <div class="col-lg-8 col-md-12 me-auto">
               <h5 class="text-white letter-space-1 mb-3 animated6">Together we make difference</h5>
-              <h1 class="text-black mb-3 animated8">GroveTech <span>Solutions , Fast</span> and Affordable</h1> 
+              <h1 class="text-black mb-3 animated8">GroveTech <span>Solutions, Fast</span> and Affordable</h1> 
               <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
                 <br>knowledge of modern technologies.</p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'].'/../company.php' ?>">Learn More</a>
               <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'].'/../contactus.php' ?>">Contact Us</a>
@@ -25,7 +25,7 @@
           <div class="row text-center justify-content-center">
             <div class="col-lg-10 col-md-12">
               <h5 class="text-white letter-space-1 mb-3 animated6" data-wow-delay="4s">Together we make difference</h5> 
-              <h1 class="text-black mb-3 animated11">Smarter GroveTech , smarter solutions</h1> 
+              <h1 class="text-black mb-3 animated11">Smarter GroveTech, smarter solutions</h1> 
               <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
                 <br>knowledge of modern technologies.</p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'].'/../company.php' ?>">Learn More</a>
               <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'].'/../careers.php' ?>">Get Started</a>
@@ -483,18 +483,30 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> <span class="count-number" data-to="45" data-speed="10000">45</span>
-          <label>Happy Clients</label>
+        <div class="counter"> 
+            <div class="counter-inner">
+                <span class="count-number" data-to="45" data-speed="10000">45</span>
+                <span class="plus-icon">+</span>
+            </div>
+          <label class="counter-label">Happy Clients</label>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> <span class="count-number" data-to="100" data-speed="10000">100</span>
-          <label>Projects Completed</label>
+        <div class="counter"> 
+        <div class="counter-inner">
+            <span class="count-number" data-to="100" data-speed="10000">100</span>
+             <span class="plus-icon">+</span>
+        </div>
+          <label class="counter-label">Projects Completed</label>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> <span class="count-number" data-to="12" data-speed="10000">12</span>
-          <label>Years of Experience</label>
+        <div class="counter"> 
+           <div class="counter-inner">
+            <span class="count-number" data-to="12" data-speed="10000">12</span>
+            <span class="plus-icon">+</span>
+        </div>
+          <label class="counter-label">Years of Experience</label>
         </div>
       </div>
       <!--<div class="col-lg-3 col-md-3 col-sm-6">-->
@@ -685,9 +697,9 @@
               
               </div>
               <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ Totam mollitia incidunt Consectetur adipisicing elit, vero cupiditate obcaecati iusto tempora unde! Numquam officiis, quae adipisci quam laudantium nulla modi, adipisci quam laudantium nulla modi vero cupiditate. ”</p>
+                <p>“ Working with the GroveTech team has been a pleasant experience! Their unrivaled customer support and attentiveness exemplify their dedication and passion for what they do to the specific needs of our business. We look forward to a long-lasting and prosperous relationship with the crew at GroveTech. ”</p>
                 <div class="testimonial-caption">
-                  <h6>Samantha Lion</h6>
+                  <h6>Chad Montgomery</h6>
                   <label>- Manager</label>
                 </div>
               </div>
@@ -699,9 +711,9 @@
                
               </div>
               <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ Consectetur adipisicing elit, Totam mollitia incidunt vero cupiditate obcaecati iusto tempora unde! Numquam officiis, quae adipisci quam laudantium nulla modi, adipisci quam laudantium nulla modi. ”</p>
+                <p>“ GroveTech helped us to design an app and working with them was a very positive experience. We would recommend them! ”</p>
                 <div class="testimonial-caption">
-                  <h6>Thomas James</h6>
+                  <h6>Michael Carroff</h6>
                   <label>- Manager</label>
                 </div>
               </div>
@@ -713,9 +725,23 @@
               
               </div>
               <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ Quae adipisci quam laudantium nulla modi, Consectetur adipisicing elit, Totam mollitia incidunt vero cupiditate obcaecati iusto tempora unde! Numquam officiis, adipisci quam laudantium nulla modi. ”</p>
+                <p>“ GroveTech was able to complete our app, on deadline, which two previous companies were unable to accomplish for 1 year. They were the perfect balance of professionalism, diligence, and pricing. But most importantly, they were able to deliver a solid product – one we can be proud of. ”</p>
                 <div class="testimonial-caption">
-                  <h6>Kendra Velly</h6>
+                  <h6>Adam Haines</h6>
+                  <label>- Manager</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimonial style-2 m-0">
+              <div class="testimonial-avatar box-shadow">
+              
+              </div>
+              <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
+                <p>“ Thanks to the expert assistance of the Cloud Solutions team, the company was able to deliver the project to the client successfully and on time. The company made sure to point out how the team was always available whenever we need them. ”</p>
+                <div class="testimonial-caption">
+                  <h6>Juan Carlos Orozco</h6>
                   <label>- Manager</label>
                 </div>
               </div>

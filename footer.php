@@ -48,7 +48,7 @@
                   <div class="country-div">
                       <div class="flag-1">
                         <img src="https://grovetech.in/images/india.png" class="flag-img">
-                        <p class="mb-0">M3-M4, Shreeji Arcade, Near Bhulka Bhavan, Adajan, Surat, Gujarat 395009.</p>
+                        <p class="mb-0">406, Sovereign Shoppers, beside Sindhu Seva Samiti School, near Gangeshwar Mahadev Temple, Honey Park, Adajan, Surat, Gujarat 395009</p>
                       </div>
                       <div class="flag-2">
                           <img src="https://grovetech.in/images/united-states.png" class="flag-img">
@@ -75,7 +75,7 @@
              
               <li class="social-twitter"><a href="https://www.facebook.com/GroveTech-Solutions-100591482424885"><i class="fab fa-facebook"></i></a>
               </li>
-              <li class="social-gplus"><a href="https://twitter.com/GroV_TecH"><i class="fab fa-twitter"></i></a>
+              <li class="social-gplus"><a href="https://twitter.com/GroveTechSolut1"><i class="fab fa-twitter"></i></a>
               </li>
               <li class="social-linkedin"><a href="https://www.linkedin.com/company/grovetech-solution"><i class="fab fa-linkedin-in"></i></a>
               </li>

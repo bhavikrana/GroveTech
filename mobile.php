@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php  include 'header.php';?>
+<?php include 'header.php'; ?>
 <!--page title start-->
 
 <section class="page-title overflow-hidden grey-bg" style="background-color: #f3c894;">
-    <div class="container" >
-      <div class="row align-items-center">
-        <div class="col-lg-6 col-md-12">
-          <h1 class="title mb-0">Mobile<br> <span>Development</span></h1>
-        </div>
-        
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 col-md-12">
+        <h1 class="title mb-0">Mobile<br> <span>Development</span></h1>
       </div>
+
     </div>
-  </section>
-  
-  <!--page title end-->
+  </div>
+</section>
+
+<!--page title end-->
 
 
 
@@ -26,45 +26,64 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-12">
-        <div class="left-side">
-          <div>
+        <div class="left-side-web">
+          <div class="web-1 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/2.png" alt="">
+              <img class="img-fluid w-100" src="images/service/ipad.png" alt="">
+              <p class="inner-text">IPad has instigated a revolution in the mobile market by providing an unexpected experience to itsusers.Contact us to know more.</p>
             </div>
-         
           </div>
+          <div class="web-2 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/apple-watch.jpeg" alt="">
+              <p class="inner-text">With our expertise Apple Watch developer’s team, we provide completed end-to-end Apple Watch development services including consulting and strategy, testing, and maintenance support to our users.</p>
+            </div>
+          </div>
+          <div class="web-3 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/android.png" alt="">
+              <p class="inner-text">If you desire your Android application to be robust, scalable, and user-friendly. We are always available at anytime to achieve your goal.</p>
+            </div>
+          </div>
+          <div class="web-4 common-tab">
+            <div class="service-images">
+              <img class="img-fluid w-100" src="images/service/mobile.png" alt="">
+              <p class="inner-text">Our competent team with extended mobile application support keeps your app up-to-date and efficient and makes your mobility solution competitive.</p>
+            </div>
+          </div>
+          <!-- <div class="web-5 common-tab">
+              <div class="service-images">
+                <img class="img-fluid w-100" src="images/service/nodejs.png" alt="">
+                <p class="inner-text">Many top brands have adopted Node.js for various desktop apps, mobile, and web apps. Have you?Our team has many year so fexperience in developing feature-richnodes. Js-basedsolutions.</p>
+              </div>
+            </div>
+            <div class="web-6 common-tab">
+              <div class="service-images">
+                <img class="img-fluid w-100" src="images/service/html-css.jpg" alt="">
+                <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              </div>
+            </div> -->
         </div>
       </div>
       <div class="col-lg-4 col-md-12 sidebar mt-5 mt-lg-0">
         <div class="widget mb-5">
           <div class="sidebar-links">
-            <ul class="list-unstyled">
-              <li class="active"><a href="outpatient-depertment.html"><i class="fas fa-angle-right"></i>Angular</a>
+            <ul class="list-unstyled list-unstyled-web">
+              <li class="menu-tab" id="web-1"><a><i class="fas fa-angle-right"></i> IPad Application</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> React Js</a>
+              <li class="menu-tab" id="web-2"><a><i class="fas fa-angle-right"></i>AppleWatch Application</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Ios</a>
+              <li class="menu-tab" id="web-3"><a><i class="fas fa-angle-right"></i> Android Application</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Android</a>
+              <li class="menu-tab" id="web-4"><a><i class="fas fa-angle-right"></i>Mobile Application</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i>Flutter</a>
+              <!-- <li class="menu-tab" id="web-5"><a><i class="fas fa-angle-right"></i> NodeJs</a>
               </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Java SpringBoot</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> .Net</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Aws</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Cloud Services</a>
-              </li>
-              <li><a href="#"><i class="fas fa-angle-right"></i> Html CSS</a></li>
-            
-             
+              <li class="menu-tab" id="web-6"><a><i class="fas fa-angle-right"></i> Html CSS</a>
+              </li> -->
             </ul>
           </div>
         </div>
-     
-      
       </div>
     </div>
   </div>
@@ -72,53 +91,53 @@
 
 <section class="text-center  py-5" style="background-color: #FDCCAE">
   <div class="container">
-    
-    <br/>
+
+    <br />
     <div class="row">
       <div class="col-md-6">
-        <img src="https://grovetech.in/images/cms-development-banner-hero.png"  />
+        <img src="https://grovetech.in/images/cms-development-banner-hero.png" />
       </div>
       <div class="col-md-6">
-         <div class="service-details mt-4" style="text-align: left;"> 
-              <h2 class="title" >App <span>Development</span></h2>
-              <p class="lead">built strength in developing innovative mobile apps. Our native app idea and development process is very cost-effective. By hiring Android and IOS development. We offer an edge above our competitors with something different, something creative and something new platforms.
+        <div class="service-details mt-4" style="text-align: left;">
+          <h2 class="title">App <span>Development</span></h2>
+          <p class="lead">built strength in developing innovative mobile apps. Our native app idea and development process is very cost-effective. By hiring Android and IOS development. We offer an edge above our competitors with something different, something creative and something new platforms.
 
-               </p>
-               <p class="mb-0"> Our agile app development methodology includes a comprehensive evaluation of your business requirements and mobile strategy to ensure the development of an ideal mobile app that is both cost effective and efficient.</p>
-               <br>
-              <p class="mb-0"> Our in house team have had extensive experience in developing user-friendly android apps, across all industry sectors. Using the latest development methodologies combined with aesthetically pleasing interfaces, each of our clients will have a bespoke android application to be proud of.</p>
-               
-            </div>
+          </p>
+          <p class="mb-0"> Our agile app development methodology includes a comprehensive evaluation of your business requirements and mobile strategy to ensure the development of an ideal mobile app that is both cost effective and efficient.</p>
+          <br>
+          <p class="mb-0"> Our in house team have had extensive experience in developing user-friendly android apps, across all industry sectors. Using the latest development methodologies combined with aesthetically pleasing interfaces, each of our clients will have a bespoke android application to be proud of.</p>
+
+        </div>
       </div>
-      </div>
-     
-       
     </div>
-    <br><br>
-  
+
+
+  </div>
+  <br><br>
+
   </div>
 </section>
 
-<section class="text-center  py-5" >
+<section class="text-center  py-5">
   <div class="container">
-    
-    <br/>
+
+    <br />
     <div class="row">
       <div class="col-md-12">
-        <h2 class="title" >Let's <span>Join us</span></h2>
+        <h2 class="title">Let's <span>Join us</span></h2>
         <p class="lead">We are always looking to hire the right talent to
           help us grow
         </p>
-        <button class="btn btn-theme btn-radius"><span><a href="<?php echo $_SERVER['HTTP_HOST'].'/../contactus.php' ?>"  style="color: #ffff;">Contact Us</a></span>
+        <button class="btn btn-theme btn-radius"><span><a href="<?php echo $_SERVER['HTTP_HOST'] . '/../contactus.php' ?>" style="color: #ffff;">Contact Us</a></span>
         </button>
       </div>
-     
-      </div>
-     
-       
+
     </div>
-    <br><br>
-  
+
+
+  </div>
+  <br><br>
+
   </div>
 </section>
 <!--video start-->
@@ -211,10 +230,10 @@
               </div>
             </div>
           </div>
-      
+
+        </div>
       </div>
     </div>
-  </div>
 </section>
 
 <!--service end-->
@@ -237,7 +256,7 @@
             <button data-filter="" class="is-checked">All</button>
             <button data-filter=".cat1">Frontend</button>
             <button data-filter=".cat2">Backend</button>
-       
+
           </div>
         </div>
       </div>
@@ -339,7 +358,27 @@
       </div>
     </div>
   </section>
-  
+
   <!--gallery end-->
-<?php  include 'footer.php';?>
+  <?php include 'footer.php'; ?>
+  <script>
+    $(document).ready(function() {
+      $("#web-1").addClass("active");
+      $(".left-side-web .common-tab").hide();
+      $(".left-side-web .web-1").show();
+    });
+    $(document).ready(function() {
+      $(".list-unstyled-web .menu-tab").click(function() {
+        var tab_id = $(this).attr('id');
+        $(".menu-tab").removeClass("active");
+        $(this).addClass("active");
+        const myArray = tab_id.split("-");
+        var active_tab = "web-" + myArray[1];
+        // console.log(active_tab);
+        $(".left-side-web .common-tab").hide();
+        $(".left-side-web ." + active_tab).show();
+      });
+    });
+  </script>
+
 </html>

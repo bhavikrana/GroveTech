@@ -75,6 +75,12 @@
 <div id="ht-preloader">
   <div class="loader clear-loader"><img src="images/a thousand times enough.gif" alt=""></div>
 </div>
+<?php 
+if($_SERVER["HTTPS"]!="on") {
+    $redirect= "https://".$_SERVER['=\'HTTP_HOST'].$_SERVER['REQUEST_URI'];
+    header("Location:$redirect");
+}
+?>
 
 <style>
   <style>
@@ -137,7 +143,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="topbar-link">
             <ul class="list-inline">
-              <li class="list-inline-item"><a href="mailto:hr@grovetech.in"><i class="flaticon-email"></i>grovetech@gmail.com</a>
+              <li class="list-inline-item"><a href="mailto:hr@grovetech.in"><i class="flaticon-email"></i>hr@grovetech.in</a>
               </li>
               <li class="list-inline-item">
                 <a href="tel:+918980803350"> <i class="flaticon-phone-call"></i>+91-8980803350</a>

@@ -592,18 +592,30 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> <span class="count-number" data-to="45" data-speed="10000">45</span>
-          <label>Happy Clients</label>
+        <div class="counter"> 
+            <div class="counter-inner">
+                <span class="count-number" data-to="45" data-speed="10000">45</span>
+                <span class="plus-icon">+</span>
+            </div>
+          <label class="counter-label">Happy Clients</label>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> <span class="count-number" data-to="100" data-speed="10000">100</span>
-          <label>Projects Completed</label>
+        <div class="counter"> 
+        <div class="counter-inner">
+            <span class="count-number" data-to="100" data-speed="10000">100</span>
+             <span class="plus-icon">+</span>
+        </div>
+          <label class="counter-label">Projects Completed</label>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> <span class="count-number" data-to="12" data-speed="10000">12</span>
-          <label>Years of Experience</label>
+        <div class="counter"> 
+           <div class="counter-inner">
+            <span class="count-number" data-to="12" data-speed="10000">12</span>
+            <span class="plus-icon">+</span>
+        </div>
+          <label class="counter-label">Years of Experience</label>
         </div>
       </div>
       <!--<div class="col-lg-3 col-md-3 col-sm-6">-->
