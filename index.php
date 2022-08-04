@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'header.php';?>
+<?php include 'header.php'; ?>
 <!---Hero Section Start-->
 <section class="fullscreen-banner p-0 overflow-hidden">
   <div class="banner-slider owl-carousel no-pb">
@@ -10,10 +10,11 @@
           <div class="row">
             <div class="col-lg-8 col-md-12 me-auto">
               <h5 class="text-white letter-space-1 mb-3 animated6">Together we make difference</h5>
-              <h1 class="text-black mb-3 animated8">GroveTech <span>Solutions, Fast</span> and Affordable</h1> 
+              <h1 class="text-black mb-3 animated8">GroveTech <span>Solutions, Fast</span> and Affordable</h1>
               <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
-                <br>knowledge of modern technologies.</p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'].'/../company.php' ?>">Learn More</a>
-              <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'].'/../contactus.php' ?>">Contact Us</a>
+                <br>knowledge of modern technologies.
+              </p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'] . '/../company.php' ?>">Learn More</a>
+              <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'] . '/../contactus.php' ?>">Contact Us</a>
             </div>
           </div>
         </div>
@@ -24,11 +25,12 @@
         <div class="container">
           <div class="row text-center justify-content-center">
             <div class="col-lg-10 col-md-12">
-              <h5 class="text-white letter-space-1 mb-3 animated6" data-wow-delay="4s">Together we make difference</h5> 
-              <h1 class="text-black mb-3 animated11">Smarter GroveTech, smarter solutions</h1> 
+              <h5 class="text-white letter-space-1 mb-3 animated6" data-wow-delay="4s">Together we make difference</h5>
+              <h1 class="text-black mb-3 animated11">Smarter GroveTech, smarter solutions</h1>
               <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
-                <br>knowledge of modern technologies.</p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'].'/../company.php' ?>">Learn More</a>
-              <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'].'/../careers.php' ?>">Get Started</a>
+                <br>knowledge of modern technologies.
+              </p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'] . '/../company.php' ?>">Learn More</a>
+              <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'] . '/../careers.php' ?>">Get Started</a>
             </div>
           </div>
         </div>
@@ -39,11 +41,12 @@
         <div class="container">
           <div class="row text-end">
             <div class="col-lg-8 col-md-12 ms-auto">
-              <h5 class="text-white letter-space-1 mb-3 animated6">Together we make difference</h5> 
-              <h1 class="text-black mb-3 animated9">Exclusive Company <span>for Technology</span> Solutions</h1> 
+              <h5 class="text-white letter-space-1 mb-3 animated6">Together we make difference</h5>
+              <h1 class="text-black mb-3 animated9">Exclusive Company <span>for Technology</span> Solutions</h1>
               <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
-                <br>knowledge of modern technologies.</p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'].'/../company.php' ?>">Learn More</a>
-              <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'].'/../careers.php' ?>">Get Started</a>
+                <br>knowledge of modern technologies.
+              </p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'] . '/../company.php' ?>">Learn More</a>
+              <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'] . '/../careers.php' ?>">Get Started</a>
             </div>
           </div>
         </div>
@@ -65,7 +68,7 @@
           <h6>About Us</h6>
           <h2 class="title">We are<span> GroveTech Solutions</span></h2>
           <p class="mb-0">We are a thriving community who yearns for perfectionism and professionalism. Our team of hardcore technology lovers are our greatest assets and we are immensely proud to have them.</p>
-        </div>        
+        </div>
         <div class="row mt-4">
           <div class="col-md-6">
             <div class="featured-item text-start">
@@ -104,10 +107,10 @@
 <section class="text-center theme-bg py-5">
   <div class="container">
     <h2 class="title">We are <span>Specialized In</span></h2>
-    <br/>
+    <br />
     <div class="row">
       <div class="col-md-12">
-       <div class="owl-carousel no-pb" data-items="5" data-md-items="4" data-sm-items="3" data-xs-items="1" data-margin="30" data-dots="false" data-autoplay="true">
+        <div class="owl-carousel no-pb" data-items="5" data-md-items="4" data-sm-items="3" data-xs-items="1" data-margin="30" data-dots="false" data-autoplay="true">
           <div class="item">
             <img class="img-fluid d-inline " width="150" height="85" src="images/client/1.png" alt="">
           </div>
@@ -115,57 +118,57 @@
             <img class="img-fluid d-inline " width="150" height="85" src="images/client/2.png" alt="">
           </div>
           <div class="item">
-            <img class="img-fluid d-inline " width="150" height="85"  src="images/client/3.png" alt="">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/3.png" alt="">
           </div>
           <div class="item">
-            <img class="img-fluid d-inline " width="150" height="85"  src="images/client/4.png" alt="">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/4.png" alt="">
           </div>
           <div class="item">
             <img class="img-fluid d-inline" width="150" height="85" src="images/client/5.png" alt="">
-          </div>       
+          </div>
         </div>
       </div>
       <div class="col-md-12">
         <div class="owl-carousel no-pb" data-items="5" data-md-items="4" data-sm-items="3" data-xs-items="1" data-margin="30" data-dots="false" data-autoplay="true">
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85" src="images/client/6.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85" src="images/client/7.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85"  src="images/client/8.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85"  src="images/client/9.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline" width="150" height="85" src="images/client/10.png" alt="">
-           </div>       
-         </div>
-       </div>
-       <div class="col-md-12">
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/6.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/7.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/8.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/9.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline" width="150" height="85" src="images/client/10.png" alt="">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12">
         <div class="owl-carousel no-pb" data-items="5" data-md-items="4" data-sm-items="3" data-xs-items="1" data-margin="30" data-dots="false" data-autoplay="true">
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85" src="images/client/11.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85" src="images/client/12.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85"  src="images/client/13.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline " width="150" height="85"  src="images/client/14.png" alt="">
-           </div>
-           <div class="item">
-             <img class="img-fluid d-inline" width="150" height="85" src="images/client/15.png" alt="">
-           </div>       
-         </div>
-       </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/11.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/12.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/13.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline " width="150" height="85" src="images/client/14.png" alt="">
+          </div>
+          <div class="item">
+            <img class="img-fluid d-inline" width="150" height="85" src="images/client/15.png" alt="">
+          </div>
+        </div>
+      </div>
     </div>
-    
-  
+
+
   </div>
 </section>
 
@@ -181,22 +184,22 @@
           <h2 class="title">Our <span>Approach</span></h2>
           <p class="mb-0">Stop worrying about technology problems, we are for you. Focus on your business.
             Let us handle your digital needs.
-            
-            </p>
+
+          </p>
         </div>
       </div>
     </div>
-  
+
     <div class="row">
       <div class="col-lg-3 col-md-12">
-        <div class="featured-step">  
-        
+        <div class="featured-step">
+
           <div class="featured-desc">
             <div class="featured-item text-center">
               <div class="featured-icon"> <i class="fa fa-lightbulb"></i>
               </div>
               <div class="featured-title text-uppercase">
-              <h5 class="mb-3">Ideation</h5>
+                <h5 class="mb-3">Ideation</h5>
               </div>
               <div class="featured-desc">
                 <p> The process of forming ideas from conception to implementation.</p>
@@ -206,13 +209,13 @@
         </div>
       </div>
       <div class="col-lg-3 col-md-12 mt-3 mt-lg-0">
-        <div class="featured-step">     
+        <div class="featured-step">
           <div class="featured-desc">
             <div class="featured-item text-center">
               <div class="featured-icon"> <i class="fa fa-tools"></i>
               </div>
               <div class="featured-title text-uppercase">
-              <h5 class="mb-3">DESIGN</h5>
+                <h5 class="mb-3">DESIGN</h5>
               </div>
               <div class="featured-desc">
                 <p> The process of converting our ideas into a proper design.</p>
@@ -222,13 +225,13 @@
         </div>
       </div>
       <div class="col-lg-3 col-md-12 mt-3 mt-lg-0">
-        <div class="featured-step">  
+        <div class="featured-step">
           <div class="featured-desc">
             <div class="featured-item text-center">
               <div class="featured-icon"> <i class="fa fa-check"></i>
               </div>
               <div class="featured-title text-uppercase">
-              <h5 class="mb-3">VALIDATION</h5>
+                <h5 class="mb-3">VALIDATION</h5>
               </div>
               <div class="featured-desc">
                 <p>Our third step is to proving the validity or accuracy of Projects.</p>
@@ -239,21 +242,21 @@
       </div>
       <div class="col-lg-3 col-md-12 mt-3 mt-lg-0">
 
-       
-        <div class="featured-step"> 
-          
+
+        <div class="featured-step">
+
           <div class="featured-desc">
             <div class="featured-item text-center">
               <div class="featured-icon"> <i class="fa fa-trophy"></i>
               </div>
               <div class="featured-title text-uppercase">
-              <h5 class="mb-3">FULFILLMENT       </h5> 
+                <h5 class="mb-3">FULFILLMENT </h5>
               </div>
               <div class="featured-desc">
-                <p>And at last we meet  requirement, condition, or need of Projects. </p>
+                <p>And at last we meet requirement, condition, or need of Projects. </p>
               </div>
             </div>
-           
+
           </div>
         </div>
       </div>
@@ -357,10 +360,10 @@
               </div>
             </div>
           </div>
-      
+
+        </div>
       </div>
     </div>
-  </div>
 </section>
 
 <!--service end-->
@@ -483,29 +486,29 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> 
-            <div class="counter-inner">
-                <span class="count-number" data-to="45" data-speed="10000">45</span>
-                <span class="plus-icon">+</span>
-            </div>
+        <div class="counter">
+          <div class="counter-inner">
+            <span class="count-number" data-to="45" data-speed="10000">45</span>
+            <span class="plus-icon">+</span>
+          </div>
           <label class="counter-label">Happy Clients</label>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> 
-        <div class="counter-inner">
+        <div class="counter">
+          <div class="counter-inner">
             <span class="count-number" data-to="100" data-speed="10000">100</span>
-             <span class="plus-icon">+</span>
-        </div>
+            <span class="plus-icon">+</span>
+          </div>
           <label class="counter-label">Projects Completed</label>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-        <div class="counter"> 
-           <div class="counter-inner">
+        <div class="counter">
+          <div class="counter-inner">
             <span class="count-number" data-to="12" data-speed="10000">12</span>
             <span class="plus-icon">+</span>
-        </div>
+          </div>
           <label class="counter-label">Years of Experience</label>
         </div>
       </div>
@@ -551,214 +554,214 @@
 
 
 
-<section class="overflow-hidden">
-  <div class="container-fluid">
-    <div class="row align-items-end">
-      <div class="col-lg-6 col-md-12">
-        <div class="section-title">
-          <h6>Creative</h6>
-          <h2 class="title">Some of our <span>best deliver </span></h2>
-          <p class="mb-0">GroveTech love to adopt changes in the technologies. However here are some of the gems: Angular, Node.js, React, Vue, React Native, Android, IOS, Java, .Net, Cloud Services, AWS and other tools.</p>
+  <section class="overflow-hidden">
+    <div class="container-fluid">
+      <div class="row align-items-end">
+        <div class="col-lg-6 col-md-12">
+          <div class="section-title">
+            <h6>Creative</h6>
+            <h2 class="title">Some of our <span>best deliver </span></h2>
+            <p class="mb-0">GroveTech love to adopt changes in the technologies. However here are some of the gems: Angular, Node.js, React, Vue, React Native, Android, IOS, Java, .Net, Cloud Services, AWS and other tools.</p>
+          </div>
         </div>
-      </div>
-      <div class="col-lg-6 col-md-12 text-lg-end">
-        <div class="portfolio-filter">
-          <button data-filter="" class="is-checked">All</button>
-          <button data-filter=".cat1">Frontend</button>
-          <button data-filter=".cat2">Backend</button>
-     
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container-fluid p-0">
-    <div class="row">
-      <div class="col-lg-12 col-md-12">
-        <div class="grid row columns-4 g-0 popup-gallery text-center">
-          <div class="grid-item cat1 cat2">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/1.jpg" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/1.jpg"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat1 cat2">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/2.jpg" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/2.jpg"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat1 cat2">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/3.jpg" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/3.jpg"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat1 cat2">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/4.jpg" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/4.jpg"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat2 cat4">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/5.jpg" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/5.jpg"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat2 cat4">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/6.jpg" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/6.jpg"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat2 cat4">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/7.png" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/7.png"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="grid-item cat2 cat4">
-            <div class="gallery-item">
-              <img class="img-fluid" src="images/gallery/8.png" alt="">
-              <div class="gallery-hover">
-                <div class="gallery-icon">
-                  <a class="popup popup-img" href="images/gallery/8.png"> <i class="flaticon-eye"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
+        <div class="col-lg-6 col-md-12 text-lg-end">
+          <div class="portfolio-filter">
+            <button data-filter="" class="is-checked">All</button>
+            <button data-filter=".cat1">Frontend</button>
+            <button data-filter=".cat2">Backend</button>
+
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+    <div class="container-fluid p-0">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          <div class="grid row columns-4 g-0 popup-gallery text-center">
+            <div class="grid-item cat1 cat2">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/1.jpg" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/1.jpg"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat1 cat2">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/2.jpg" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/2.jpg"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat1 cat2">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/3.jpg" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/3.jpg"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat1 cat2">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/4.jpg" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/4.jpg"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat2 cat4">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/5.jpg" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/5.jpg"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat2 cat4">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/6.jpg" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/6.jpg"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat2 cat4">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/7.png" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/7.png"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="grid-item cat2 cat4">
+              <div class="gallery-item">
+                <img class="img-fluid" src="images/gallery/8.png" alt="">
+                <div class="gallery-hover">
+                  <div class="gallery-icon">
+                    <a class="popup popup-img" href="images/gallery/8.png"> <i class="flaticon-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<!--gallery end-->
+  <!--gallery end-->
 
-<!--testimonial style2 start-->
+  <!--testimonial style2 start-->
 
 
-<section class="dark-bg jarallax" data-bg-img="images/bg/03.png" data-overlay="9">
-  <div class="container">
-    <div class="row text-center">
-      <div class="col-xl-8 col-lg-10 col-md-12 mx-auto">
-        <div class="section-title">
-          <h6>Clients</h6>
-          <h2 class="title">What Clients <span> Say?</span></h2>
-          <p class="mb-0">Stop worrying about technology problems, we are for you. Focus on your business.
-            Let us handle your digital needs.
-            
+  <section class="dark-bg jarallax" data-bg-img="images/bg/03.png" data-overlay="9">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-xl-8 col-lg-10 col-md-12 mx-auto">
+          <div class="section-title">
+            <h6>Clients</h6>
+            <h2 class="title">What Clients <span> Say?</span></h2>
+            <p class="mb-0">Stop worrying about technology problems, we are for you. Focus on your business.
+              Let us handle your digital needs.
+
             </p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="owl-carousel" data-items="2" data-margin="30" data-autoplay="true">
-          <div class="item">
-            <div class="testimonial style-2 m-0">
-              <div class="testimonial-avatar box-shadow">
-              
-              </div>
-              <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ Working with the GroveTech team has been a pleasant experience! Their unrivaled customer support and attentiveness exemplify their dedication and passion for what they do to the specific needs of our business. We look forward to a long-lasting and prosperous relationship with the crew at GroveTech. ”</p>
-                <div class="testimonial-caption">
-                  <h6>Chad Montgomery</h6>
-                  <label>- Manager</label>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testimonial style-2 m-0">
-              <div class="testimonial-avatar box-shadow">
-               
-              </div>
-              <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ GroveTech helped us to design an app and working with them was a very positive experience. We would recommend them! ”</p>
-                <div class="testimonial-caption">
-                  <h6>Michael Carroff</h6>
-                  <label>- Manager</label>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testimonial style-2 m-0">
-              <div class="testimonial-avatar box-shadow">
-              
-              </div>
-              <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ GroveTech was able to complete our app, on deadline, which two previous companies were unable to accomplish for 1 year. They were the perfect balance of professionalism, diligence, and pricing. But most importantly, they were able to deliver a solid product – one we can be proud of. ”</p>
-                <div class="testimonial-caption">
-                  <h6>Adam Haines</h6>
-                  <label>- Manager</label>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="testimonial style-2 m-0">
-              <div class="testimonial-avatar box-shadow">
-              
-              </div>
-              <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
-                <p>“ Thanks to the expert assistance of the Cloud Solutions team, the company was able to deliver the project to the client successfully and on time. The company made sure to point out how the team was always available whenever we need them. ”</p>
-                <div class="testimonial-caption">
-                  <h6>Juan Carlos Orozco</h6>
-                  <label>- Manager</label>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="owl-carousel" data-items="2" data-margin="30" data-autoplay="true">
+            <div class="item">
+              <div class="testimonial style-2 m-0">
+                <div class="testimonial-avatar box-shadow">
+
+                </div>
+                <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
+                  <p>“ Working with the GroveTech team has been a pleasant experience! Their unrivaled customer support and attentiveness exemplify their dedication and passion for what they do to the specific needs of our business. We look forward to a long-lasting and prosperous relationship with the crew at GroveTech. ”</p>
+                  <div class="testimonial-caption">
+                    <h6>Chad Montgomery</h6>
+                    <label>- Manager</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="testimonial style-2 m-0">
+                <div class="testimonial-avatar box-shadow">
+
+                </div>
+                <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
+                  <p>“ GroveTech helped us to design an app and working with them was a very positive experience. We would recommend them! ”</p>
+                  <div class="testimonial-caption">
+                    <h6>Michael Carroff</h6>
+                    <label>- Manager</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="testimonial style-2 m-0">
+                <div class="testimonial-avatar box-shadow">
+
+                </div>
+                <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
+                  <p>“ GroveTech was able to complete our app, on deadline, which two previous companies were unable to accomplish for 1 year. They were the perfect balance of professionalism, diligence, and pricing. But most importantly, they were able to deliver a solid product – one we can be proud of. ”</p>
+                  <div class="testimonial-caption">
+                    <h6>Adam Haines</h6>
+                    <label>- Manager</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="testimonial style-2 m-0">
+                <div class="testimonial-avatar box-shadow">
+
+                </div>
+                <div class="testimonial-content"> <span><i class="fas fa-quote-right"></i></span>
+                  <p>“ Thanks to the expert assistance of the Cloud Solutions team, the company was able to deliver the project to the client successfully and on time. The company made sure to point out how the team was always available whenever we need them. ”</p>
+                  <div class="testimonial-caption">
+                    <h6>Juan Carlos Orozco</h6>
+                    <label>- Manager</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
 
-<!--testimonial style2 end-->
+  <!--testimonial style2 end-->
 
 </div>
 
-<!--body content end--> 
+<!--body content end-->
 <!--blog start-->
 
 <section>
@@ -770,12 +773,12 @@
           <h2 class="title">Contact Us <span>Now</span></h2>
           <p class="mb-0">Stop worrying about technology problems, we are for you. Focus on your business.
             Let us handle your digital needs.
-            
+
             Contact us Now</p>
         </div>
       </div>
     </div>
-  
+
   </div>
 </section>
 
@@ -810,29 +813,34 @@
           <div class="form-group col-sm-6">
             <input id="phone" type="text" name="phone" class="form-control" placeholder="Phone Number" required="required">
           </div>
-         
+
           <div class="form-group col-sm-12">
-            <input type="file" class="form-control" name="attachment" accept=
-"application/msword,  application/pdf, image/*">
+            <input type="file" class="form-control" name="attachment" accept="application/msword,  application/pdf, image/*">
           </div>
-          
+
           <div class="form-group col-sm-12">
-           <textarea name="message" class="form-control" rows="2" placeholder="Describe yourself here..."></textarea>
+            <textarea name="message" class="form-control" rows="2" placeholder="Describe yourself here..."></textarea>
+          </div>
+          <div class="form-group">
+            <!-- Google reCAPTCHA block -->
+            <div class="g-recaptcha" data-sitekey="6LfnADIhAAAAADYbNOG--5nSu2bsOAuj1kYJ1JCe"></div>
           </div>
           <div class="col-sm-12 mt-5">
             <!-- <button class="btn btn-theme btn-radius"><span>Contact Us</span>
             </button> -->
             <button type="submit" name="submit" class="btn btn-theme btn-radius" id="contact-submit" data-submit="...Sending">Contact Us</button>
           </div>
+          <!-- Google reCaptcha -->
+          <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         </form>
-        <!-- <h3><?php include "secure_email_code.php"?></h3> -->
+        <!-- <h3><?php include "secure_email_code.php" ?></h3> -->
       </div>
     </div>
   </div>
 </section>
 
 <!--appointment end-->
-<?php  include 'footer.php';?>
+<?php include 'footer.php'; ?>
 
 
 </html>

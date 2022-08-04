@@ -42,13 +42,13 @@
           <div class="web-3 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
-              <p class="inner-text">Our team invests time, analyse your niche-based audience, and develops E-commerce web portals to the needs of your business.You can get custom web design solutions tailored to a wide audience by using user-friendly designs and optimizing the website for maximum conversion.</p>
+              <p class="inner-text">Our team invests time, analyse your niche-based audience, and develops E-commerce web portals to the needs of your business. You can get custom web design solutions tailored to a wide audience by using user-friendly designs and optimizing the website for maximum conversion.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
-              <p class="inner-text">Our E-commerce audit checks your online product store's overall health and errors and offers the most comprehensive E-commerce audit available. Aside from checking the overall UX, performance, SEO, and marketing campaigns, wealso checkother aspects of the site.</p>
+              <p class="inner-text">Our E-commerce audit checks your online product store's overall health and errors and offers the most comprehensive E-commerce audit available. Aside from checking the overall UX, performance, SEO, and marketing campaigns, we also checkother aspects of the site.</p>
             </div>
           </div>
           <div class="web-5 common-tab">

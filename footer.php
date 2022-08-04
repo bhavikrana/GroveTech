@@ -9,7 +9,7 @@
               <img id="logo-img" class="img-fluid" src="images/newlogo.png" alt=""><span class="p-2" style="color:#ff6501;"><i>GroveTech</i></span><div style="font-family: Brush Script MT, Brush Script Std, cursive; color:#4ab242; margin-left: 100px; margin-top: -30px; ">Solutions</div>
             </a>
           </div>
-          <p class="mb-3">GroveTech provide the best solutions.Stop worrying about technology problems, we are for you.We will provide your best digital Solutions</p> 
+          <p class="mb-3">GroveTech provide the best solutions. Stop worrying about technology problems, we are for you. We will provide your best digital Solutions</p> 
      
           </div>
         <div class="col-lg-3 col-md-6 mt-5 mt-md-0 footer-list ps-lg-5">
@@ -73,13 +73,13 @@
           <div class="social-icons social-colored social-fullwidth">
             <ul class="list-inline mb-0">
              
-              <li class="social-twitter"><a href="https://www.facebook.com/GroveTech-Solutions-100591482424885"><i class="fab fa-facebook"></i></a>
+              <li class="social-twitter"><a href="https://www.facebook.com/GroveTech-Solutions-100591482424885" target="_blank"><i class="fab fa-facebook"></i></a>
               </li>
-              <li class="social-gplus"><a href="https://twitter.com/GroveTechSolut1"><i class="fab fa-twitter"></i></a>
+              <li class="social-gplus"><a href="https://twitter.com/GroveTechSolut1" target="_blank"><i class="fab fa-twitter"></i></a>
               </li>
-              <li class="social-linkedin"><a href="https://www.linkedin.com/company/grovetech-solution"><i class="fab fa-linkedin-in"></i></a>
+              <li class="social-linkedin"><a href="https://www.linkedin.com/company/grovetech-solution" target="_blank"><i class="fab fa-linkedin-in"></i></a>
               </li>
-              <li class="social-skype"><a href="https://join.skype.com/invite/olln3xDabxiE"><i class="fab fa-skype"></i></a>
+              <li class="social-skype"><a href="https://join.skype.com/invite/olln3xDabxiE" target="_blank"><i class="fab fa-skype"></i></a>
               </li>
             </ul>
           </div>
@@ -134,6 +134,10 @@
 
 <!--== countdown -->
 <script src="js/countdown/jquery.countdown.min.js"></script> 
+
+<!--== sweetalert -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<!-- <script>swal("My title", "My description", "success");</script> -->
 
 <!--== isotope -->
 <script src="js/isotope/isotope.pkgd.min.js"></script> 

@@ -30,7 +30,7 @@
           <div class="web-1 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/ipad.png" alt="">
-              <p class="inner-text">IPad has instigated a revolution in the mobile market by providing an unexpected experience to itsusers.Contact us to know more.</p>
+              <p class="inner-text">IPad has instigated a revolution in the mobile market by providing an unexpected experience to itsusers. Contact us to know more.</p>
             </div>
           </div>
           <div class="web-2 common-tab">

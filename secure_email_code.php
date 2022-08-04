@@ -45,22 +45,26 @@
     
 
     $to = $fromEmail;
-    $subject = "New Application Form Registered.";
+    $subject = "Contact us Application";
     
     $header = "From:hr@grovetech.in \r\n";
-    // $header .= "Cc:hr@grovetech.in \r\n";
+    // $header .= "Cc:jariwala.ketan8@gmail.com \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
     
-    $message2 = "Hello Candidate,<br/>";
+    $message2 = "Hello ".$name."\n".$lname.",<br/>";
     $message2 .= "<br/>";
-    $message2 .= "Thank you for submitting form, We will inform you as soon as possible<br/>";
+    $message2 .= "Thank you for contacting us. We will get back to you soon.<br/>";
+    $message2 .= "<br/>";
+    $message2 .= "Regards,<br/>";
+    $message2 .= "GroveTech Solutions<br/>";
+    $message2 .= "+918980803350";
     
     
     $to2 = "hr@grovetech.in";
     $subject2 = "Apply For Job";
     $header2 = "From:".$fromEmail." \r\n";
-    // $header2 .= "Cc:".$fromEmail." \r\n";
+    $header2 .= "Cc:jariwala.ketan8@gmail.com \r\n";
     $header2 .= "MIME-Version: 1.0\r\n";
     $header2 .= "Content-type: text/html\r\n";
     

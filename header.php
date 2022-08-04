@@ -76,14 +76,13 @@
   <div class="loader clear-loader"><img src="images/a thousand times enough.gif" alt=""></div>
 </div>
 <?php 
-if($_SERVER["HTTPS"]!="on") {
-    $redirect= "https://".$_SERVER['=\'HTTP_HOST'].$_SERVER['REQUEST_URI'];
-    header("Location:$redirect");
-}
+// if($_SERVER["HTTPS"]!="on") {
+//     $redirect= "https://".$_SERVER['=\'HTTP_HOST'].$_SERVER['REQUEST_URI'];
+//     header("Location:$redirect");
+// }
 ?>
 
 <style>
-  <style>
   .hidecontent {
       display: none;
   }
@@ -156,13 +155,14 @@ if($_SERVER["HTTPS"]!="on") {
         </div>
         <div class="col-lg-4 col-md-12 text-end d-lg-block d-none">
           <div class="social-icons social-hover top-social-list">
-            <ul class="list-inline">
-              
-              <li><a href="https://www.instagram.com/grovetechsolutions6/"><i class="fab fa-instagram"></i></a>
+          <ul class="list-inline">
+              <li class="list-inline-item"><a href="mailto:hr@grovetech.in"><i class="flaticon-email"></i>hr@grovetech.in</a>
               </li>
-              <li><a href="https://join.skype.com/invite/olln3xDabxiE"><i class="fab fa-skype"></i></a>
+              <li class="list-inline-item">
+                <a href="tel:+918980803350"> <i class="flaticon-phone-call"></i>+91-8980803350</a>
               </li>
-              <li><a href="https://www.linkedin.com/company/grovetech-solution"><i class="fab fa-linkedin-in"></i></a>
+              <li class="list-inline-item">
+                <a href=""> <i class="flaticon-alarm-clock"></i>Mon-Fri 8am to 7pm</a>
               </li>
             </ul>
           </div>
@@ -229,5 +229,7 @@ if($_SERVER["HTTPS"]!="on") {
     </div>
   </div>
 </header>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 
 <!--header end-->

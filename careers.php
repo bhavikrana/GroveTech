@@ -137,13 +137,13 @@
         <div class="col-lg-8 col-md-12">
           <div class="topbar-link">
             <ul class="list-inline">
-              <li class="list-inline-item"><a href="mailto:GroveTech@gmail.com"><i class="flaticon-email"></i>grovetech@gmail.com</a>
+              <li class="list-inline-item"><a href="mailto:hr@grovetech.in"><i class="flaticon-email"></i>hr@grovetech.in</a>
               </li>
               <li class="list-inline-item">
-                <a href="tel:+912345678900"> <i class="flaticon-phone-call"></i>+91-234-567-8900</a>
+                <a href="tel:+918980803350"> <i class="flaticon-phone-call"></i>+91-8980803350</a>
               </li>
               <li class="list-inline-item">
-                <a href="#"> <i class="flaticon-alarm-clock"></i>Mon-Fri 8am to 7pm</a>
+                <a href=""> <i class="flaticon-alarm-clock"></i>Mon-Fri 8am to 7pm</a>
               </li>
             </ul>
           </div>
@@ -152,11 +152,11 @@
           <div class="social-icons social-hover top-social-list">
             <ul class="list-inline">
               
-              <li><a href="#"><i class="fab fa-instagram"></i></a>
+              <li><a href="https://www.instagram.com/grovetechsolutions6/" target="_blank"><i class="fab fa-instagram"></i></a>
               </li>
-              <li><a href="#"><i class="fab fa-skype"></i></a>
+              <li><a href="https://join.skype.com/invite/olln3xDabxiE" target="_blank"><i class="fab fa-skype"></i></a>
               </li>
-              <li><a href="https://www.linkedin.com/company/grovetech-solution/?viewAsMember=true"><i class="fab fa-linkedin-in"></i></a>
+              <li><a href="https://www.linkedin.com/company/grovetech-solution/?viewAsMember=true" target="_blank"><i class="fab fa-linkedin-in"></i></a>
               </li>
             </ul>
           </div>

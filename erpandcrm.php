@@ -48,7 +48,7 @@
           <div class="web-4 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
-              <p class="inner-text">Any kind of data breach can be detrimental to your organization and a secure and customizablesystem is extremely important. An Enterprise Resource Planning System allows you to grant different levels of access to different users and protect confidential information. This ensures the minimum risk of a data breach and eliminatesall sorts of threats.</p>
+              <p class="inner-text">Any kind of data breach can be detrimental to your organization and a secure and customizable system is extremely important. An Enterprise Resource Planning System allows you to grant different levels of access to different users and protect confidential information. This ensures the minimum risk of a data breach and eliminatesall sorts of threats.</p>
             </div>
           </div>
           <div class="web-5 common-tab">

@@ -30,31 +30,31 @@
           <div class="web-1 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/reactJs.png" alt="">
-              <p class="inner-text">Are you looking for an incredible User Experience for your customers? Then React JS is the best choice for the frontend development.We have an expert team whohelps you in React.js front-end development.</p>
+              <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-2 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/angular-1.png" alt="">
-              <p class="inner-text">We offer fully- customized and scalable Angular.js development services for small, medium, andlarge-scale enterprises.</p>
+              <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-3 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
-              <p class="inner-text">Are you seeking Full Stack development advantages? If you want to execute the projects with a single team,thenfull-stack developmentis the right choice.</p>
+              <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
-              <p class="inner-text">Block chain is an emerging technology that redefined the business processes with total transparency,persistence, and security. We develop a customized and scalable block chain solution to resolve critical business problems.</p>
+              <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-5 common-tab">
             <div class="service-images">
               <img class="img-fluid w-100" src="images/service/nodejs.png" alt="">
-              <p class="inner-text">Many top brands have adopted Node.js for various desktop apps, mobile, and web apps. Have you?Our team has many year so fexperience in developing feature-richnodes. Js-basedsolutions.</p>
+              <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-6 common-tab">
@@ -69,17 +69,17 @@
         <div class="widget mb-5">
           <div class="sidebar-links">
             <ul class="list-unstyled list-unstyled-web">
-              <li class="menu-tab" id="web-1"><a><i class="fas fa-angle-right"></i> React Js</a>
+              <li class="menu-tab" id="web-1"><a><i class="fas fa-angle-right"></i> Cloud Solutions</a>
               </li>
-              <li class="menu-tab" id="web-2"><a><i class="fas fa-angle-right"></i> Angular Js</a>
+              <li class="menu-tab" id="web-2"><a><i class="fas fa-angle-right"></i> Salesforce</a>
               </li>
-              <li class="menu-tab" id="web-3"><a><i class="fas fa-angle-right"></i> MeanStack</a>
+              <li class="menu-tab" id="web-3"><a><i class="fas fa-angle-right"></i> Saas based Cloud Development</a>
               </li>
-              <li class="menu-tab" id="web-4"><a><i class="fas fa-angle-right"></i>BlockChain</a>
+              <li class="menu-tab" id="web-4"><a><i class="fas fa-angle-right"></i>AWS</a>
               </li>
-              <li class="menu-tab" id="web-5"><a><i class="fas fa-angle-right"></i> NodeJs</a>
+              <li class="menu-tab" id="web-5"><a><i class="fas fa-angle-right"></i>Azure</a>
               </li>
-              <li class="menu-tab" id="web-6"><a><i class="fas fa-angle-right"></i> Html CSS</a>
+              <li class="menu-tab" id="web-6"><a><i class="fas fa-angle-right"></i> Alibaba base Cloud Solution</a>
               </li>
             </ul>
           </div>

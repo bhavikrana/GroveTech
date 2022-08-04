@@ -320,7 +320,8 @@ function contactform() {
             {
               console.log(data);
               $('.result').html(data);
-              alert("Thank you for submitting form")
+              // alert("Thank you for submitting form");
+              swal("", "Thank you for contacting us. We will reach out to you soon via email.", "success");
               $('#queto-form')[0].reset();
             // data = JSON object that contact.php returns
 
