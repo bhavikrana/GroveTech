@@ -29,7 +29,7 @@
         <div class="section-title mb-4">
           <h6>About Us</h6>
           <h2 class="title"><span> GroveTech Solutions!</span> We are here to help you....</h2>
-          <p class="mb-0">GroveTech believes a strong, lasting relationship between a company and its customers is most valuable and powerful, and we work hard to keep it that way. We make it a point to understand where our customers are coming from, which allows us to exceed their expectations and deliver the right products and services.</p>
+          <p class="mb-0">GroveTech believes a strong, lasting relationship between a company and its customers is most valuable and powerful, and we work hard to keep it that way.</p>
         </div>        
         <div class="row mt-4">
           <div class="col-md-6">
@@ -40,8 +40,8 @@
                 <h5>Who we are</h5>
               </div>
               <div class="featured-desc">
-                <p>GROVE TECH is a company that offers a complete bouquet of IT-related services. Right from custom software development to the engineering of mobile operations, we can do it all with
-perfection, expertise, and promptitude. Our emphasis was on developing similar results that far exceeded their prospects, and in the process, we earned their fidelity. Most of the credit for this goes to our value-grounded work model, which emphasizes customer satisfaction, promptitude, and transparency.</p>
+                <p>GroveTech is a company that offers a complete bouquet of IT-related services. Right from custom software development to the engineering of mobile operations, we can do it all with
+perfection, expertise, and promptitude. Our emphasis was on developing similar results that far exceeded their prospects, and in the process, we earned their fidelity.</p>
               </div>
             </div>
           </div>

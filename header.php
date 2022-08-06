@@ -155,14 +155,13 @@
         </div>
         <div class="col-lg-4 col-md-12 text-end d-lg-block d-none">
           <div class="social-icons social-hover top-social-list">
-          <ul class="list-inline">
-              <li class="list-inline-item"><a href="mailto:hr@grovetech.in"><i class="flaticon-email"></i>hr@grovetech.in</a>
+            <ul class="list-inline">
+              
+              <li><a href="https://www.instagram.com/grovetechsolutions6/" target="_blank"><i class="fab fa-instagram"></i></a>
               </li>
-              <li class="list-inline-item">
-                <a href="tel:+918980803350"> <i class="flaticon-phone-call"></i>+91-8980803350</a>
+              <li><a href="https://join.skype.com/invite/olln3xDabxiE" target="_blank"><i class="fab fa-skype"></i></a>
               </li>
-              <li class="list-inline-item">
-                <a href=""> <i class="flaticon-alarm-clock"></i>Mon-Fri 8am to 7pm</a>
+              <li><a href="https://www.linkedin.com/company/grovetech-solution" target="_blank"><i class="fab fa-linkedin-in"></i></a>
               </li>
             </ul>
           </div>

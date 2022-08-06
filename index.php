@@ -9,10 +9,9 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-8 col-md-12 me-auto">
-              <h5 class="text-white letter-space-1 mb-3 animated6">Together we make difference</h5>
-              <h1 class="text-black mb-3 animated8">GroveTech <span>Solutions, Fast</span> and Affordable</h1>
-              <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
-                <br>knowledge of modern technologies.
+              <h5 class="text-white letter-space-1 mb-3 animated6">Let's work together to make a difference!</h5>
+              <h1 class="text-black mb-3 animated8"> <span>Digital</span> Transformation</h1>
+              <p class="lead text-black mb-3 animated5">GroveTech offer’s a complete range of services that build up business value, from the initial idea and formulation of product strategy.
               </p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'] . '/../company.php' ?>">Learn More</a>
               <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'] . '/../contactus.php' ?>">Contact Us</a>
             </div>
@@ -25,10 +24,9 @@
         <div class="container">
           <div class="row text-center justify-content-center">
             <div class="col-lg-10 col-md-12">
-              <h5 class="text-white letter-space-1 mb-3 animated6" data-wow-delay="4s">Together we make difference</h5>
-              <h1 class="text-black mb-3 animated11">Smarter GroveTech, smarter solutions</h1>
-              <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
-                <br>knowledge of modern technologies.
+              <h5 class="text-white letter-space-1 mb-3 animated6" data-wow-delay="4s">Let's work together to make a difference!</h5>
+              <h1 class="text-black mb-3 animated11">Solutions that fit your business needs in terms of software development</h1>
+              <p class="lead text-black mb-3 animated5">We had the pleasure of being a partner for companies from markets like Design, Development, Consultancy, & many more.
               </p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'] . '/../company.php' ?>">Learn More</a>
               <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'] . '/../careers.php' ?>">Get Started</a>
             </div>
@@ -41,10 +39,9 @@
         <div class="container">
           <div class="row text-end">
             <div class="col-lg-8 col-md-12 ms-auto">
-              <h5 class="text-white letter-space-1 mb-3 animated6">Together we make difference</h5>
-              <h1 class="text-black mb-3 animated9">Exclusive Company <span>for Technology</span> Solutions</h1>
-              <p class="lead text-black mb-3 animated5">We try to make maximum use of all our experience, accumulated potential,
-                <br>knowledge of modern technologies.
+              <h5 class="text-white letter-space-1 mb-3 animated6">Let's work together to make a difference!</h5>
+              <h1 class="text-black mb-3 animated9">GroveTech Provide services <span>for Startups</span> and Scale-ups</h1>
+              <p class="lead text-black mb-3 animated5">We provide unique products for startups and small businesses considering their purpose and philosophy.
               </p> <a class="btn btn-theme btn-radius animated7" href="<?php echo $_SERVER['HTTP_HOST'] . '/../company.php' ?>">Learn More</a>
               <a class="btn btn-theme btn-circle animated6" href="<?php echo $_SERVER['HTTP_HOST'] . '/../careers.php' ?>">Get Started</a>
             </div>
@@ -56,7 +53,6 @@
 </section>
 <!---Hero section end -->
 <!--about us start-->
-
 <section>
   <div class="container">
     <div class="row align-items-center">
@@ -66,9 +62,9 @@
       <div class="col-lg-7 col-md-12 mt-5 mt-lg-0">
         <div class="section-title mb-4">
           <h6>About Us</h6>
-          <h2 class="title">We are<span> GroveTech Solutions</span></h2>
-          <p class="mb-0">We are a thriving community who yearns for perfectionism and professionalism. Our team of hardcore technology lovers are our greatest assets and we are immensely proud to have them.</p>
-        </div>
+          <h2 class="title"><span> GroveTech Solutions!</span> We are here to help you....</h2>
+          <p class="mb-0">GroveTech believes a strong, lasting relationship between a company and its customers is most valuable and powerful, and we work hard to keep it that way.</p>
+        </div>        
         <div class="row mt-4">
           <div class="col-md-6">
             <div class="featured-item text-start">
@@ -78,7 +74,8 @@
                 <h5>Who we are</h5>
               </div>
               <div class="featured-desc">
-                <p>We offers you advance Website Development, Mobile Apps Development and Customized Software Development services. Besides these services we also provides you the best and optimized IT solutions for your business to grow.</p>
+                <p>GroveTech is a company that offers a complete bouquet of IT-related services. Right from custom software development to the engineering of mobile operations, we can do it all with
+perfection, expertise, and promptitude. Our emphasis was on developing similar results that far exceeded their prospects, and in the process, we earned their fidelity.</p>
               </div>
             </div>
           </div>
@@ -90,7 +87,7 @@
                 <h5>Why Choose Us</h5>
               </div>
               <div class="featured-desc">
-                <p>Our promising team will make your Tech-business smooth and simple. As your solution partner we research, analyse, plan, design and document your requirement and then execute it to ensure the best results. </p>
+                <p>Our services are different from others web service providers who are rigid, inflexible, and unhelpful and believe in instant gains for leaving their customers in the dark. Our first and last actions are always the right ones. GroveTech delivers service with exceptional professionalism and full return on investment accountability.</p>
               </div>
             </div>
           </div>

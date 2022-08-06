@@ -32,7 +32,7 @@
     }
     
     
-    $message = "Hello HR<br/>";
+    $message = "Hello Team,<br/>";
     $message .= "<br/>";
     $message .= "New Resume Arrives<br/>";
     $message .= "<br/>";
@@ -42,10 +42,12 @@
     if($birthdate){
         $message .= "<b>Message:</b>\n".$birthdate."<br/>";
     }
+    $message .= "<br/>";
+    $message .= "Regards<br/>";
     
 
     $to = $fromEmail;
-    $subject = "Contact us Application";
+    $subject = "Contact us";
     
     $header = "From:hr@grovetech.in \r\n";
     // $header .= "Cc:jariwala.ketan8@gmail.com \r\n";
