@@ -29,37 +29,37 @@
         <div class="left-side-web">
           <div class="web-1 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/reactJs.png" alt="">
+              <img class="img-fluid w-100" src="images/service/3.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-2 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/angular-1.png" alt="">
+              <img class="img-fluid w-100" src="images/service/11.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-3 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
+              <img class="img-fluid w-100" src="images/service/cloud/12.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
+              <img class="img-fluid w-100" src="images/service/cloud/13.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-5 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/nodejs.png" alt="">
+              <img class="img-fluid w-100" src="images/service/cloud/14.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
           <div class="web-6 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/html-css.jpg" alt="">
+              <img class="img-fluid w-100" src="images/service/cloud/15.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>

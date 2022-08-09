@@ -29,25 +29,25 @@
         <div class="left-side-web">
           <div class="web-1 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/reactJs.png" alt="">
+              <img class="img-fluid w-100" src="images/service/ecom/16.png" alt="">
               <p class="inner-text">Our team optimizes your high-selling products and ranks them on the first page of SERP outcome. Using a combination of On-Page and Off-Page SEO techniques, we drive organic traffic to your online platforms. If you want to target your products locally, Local SEO can be used used to achieve the utmost results.</p>
             </div>
           </div>
           <div class="web-2 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/angular-1.png" alt="">
+              <img class="img-fluid w-100" src="images/service/ecom/17.png" alt="">
               <p class="inner-text">We provide the solutions and advertising solutions that increase your ROI using PPC advertising. We deliver high result-oriented PPC ads to maximize sales and reduce the overall cost of acquisition.</p>
             </div>
           </div>
           <div class="web-3 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
+              <img class="img-fluid w-100" src="images/service/ecom/18.png" alt="">
               <p class="inner-text">Our team invests time, analyse your niche-based audience, and develops E-commerce web portals to the needs of your business. You can get custom web design solutions tailored to a wide audience by using user-friendly designs and optimizing the website for maximum conversion.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
+              <img class="img-fluid w-100" src="images/service/ecom/19.png" alt="">
               <p class="inner-text">Our E-commerce audit checks your online product store's overall health and errors and offers the most comprehensive E-commerce audit available. Aside from checking the overall UX, performance, SEO, and marketing campaigns, we also checkother aspects of the site.</p>
             </div>
           </div>

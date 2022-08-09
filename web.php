@@ -29,37 +29,37 @@
         <div class="left-side-web">
           <div class="web-1 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/reactJs.png" alt="">
+              <img class="img-fluid w-100" src="images/service/web/1.png" alt="">
               <p class="inner-text">Are you looking for an incredible User Experience for your customers? Then React is the best choice for the frontend development.We have an expert team who helps you in React front-end development.</p>
             </div>
           </div>
           <div class="web-2 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/angular-1.png" alt="">
+              <img class="img-fluid w-100" src="images/service/web/2.png" alt="">
               <p class="inner-text">We offer fully-customized and scalable Angular development services for small, medium, and large-scale enterprises.</p>
             </div>
           </div>
           <div class="web-3 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
+              <img class="img-fluid w-100" src="images/service/web/6.png" alt="">
               <p class="inner-text">Are you seeking Full Stack development advantages? If you want to execute the projects with a single team,then full-stack developmentis the right choice.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
+              <img class="img-fluid w-100" src="images/service/web/3.png" alt="">
               <p class="inner-text">Block chain is an emerging technology that redefined the business processes with total transparency,persistence, and security. We develop a customized and scalable block chain solution to resolve critical business problems.</p>
             </div>
           </div>
           <div class="web-5 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/nodejs.png" alt="">
+              <img class="img-fluid w-100" src="images/service/web/4.png" alt="">
               <p class="inner-text">Many top brands have adopted Node.js for various desktop apps, mobile, and web apps. Have you? Our team has many year so fexperience in developing feature-richnodes. Js-based solutions.</p>
             </div>
           </div>
           <div class="web-6 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/html-css.jpg" alt="">
+              <img class="img-fluid w-100" src="images/service/web/5.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>

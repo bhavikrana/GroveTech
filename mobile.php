@@ -29,25 +29,25 @@
         <div class="left-side-web">
           <div class="web-1 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/ipad.png" alt="">
+              <img class="img-fluid w-100" src="images/service/mobile/7.png" alt="">
               <p class="inner-text">IPad has instigated a revolution in the mobile market by providing an unexpected experience to itsusers. Contact us to know more.</p>
             </div>
           </div>
           <div class="web-2 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/apple-watch.jpeg" alt="">
+              <img class="img-fluid w-100" src="images/service/mobile/8.png" alt="">
               <p class="inner-text">With our expertise Apple Watch developer’s team, we provide completed end-to-end Apple Watch development services including consulting and strategy, testing, and maintenance support to our users.</p>
             </div>
           </div>
           <div class="web-3 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/android.png" alt="">
+              <img class="img-fluid w-100" src="images/service/mobile/9.png" alt="">
               <p class="inner-text">If you desire your Android application to be robust, scalable, and user-friendly. We are always available at anytime to achieve your goal.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/mobile.png" alt="">
+              <img class="img-fluid w-100" src="images/service/mobile/10.png" alt="">
               <p class="inner-text">Our competent team with extended mobile application support keeps your app up-to-date and efficient and makes your mobility solution competitive.</p>
             </div>
           </div>

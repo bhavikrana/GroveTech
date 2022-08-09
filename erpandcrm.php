@@ -35,31 +35,31 @@
           </div>
           <div class="web-2 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/angular-1.png" alt="">
+              <img class="img-fluid w-100" src="images/service/erp/20.png" alt="">
               <p class="inner-text">A unified place for all your information not only makes accessing the information easier but also increases the efficiency of the work force by saving time and resources. You can enhance your database and keep a check on the existing data whenever you like.</p>
             </div>
           </div>
           <div class="web-3 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/mean-stack.jpeg" alt="">
+              <img class="img-fluid w-100" src="images/service/erp/21.png" alt="">
               <p class="inner-text">With ERP Solutions, you can access data quickly so that you can generate quick reports with effective analysis hassle-free. This will also reflect in your business decisions and analyse the operations of your workplace.</p>
             </div>
           </div>
           <div class="web-4 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/Blockchain.jpg" alt="">
+              <img class="img-fluid w-100" src="/service/erp/22.png" alt="">
               <p class="inner-text">Any kind of data breach can be detrimental to your organization and a secure and customizable system is extremely important. An Enterprise Resource Planning System allows you to grant different levels of access to different users and protect confidential information. This ensures the minimum risk of a data breach and eliminatesall sorts of threats.</p>
             </div>
           </div>
           <div class="web-5 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/nodejs.png" alt="">
+              <img class="img-fluid w-100" src="/service/erp/23.png" alt="">
               <p class="inner-text">In addition, ERP integrates easily with employee-customer interaction allowing employees and customers to interact more effectively and provide better customer service with sufficient customer information.</p>
             </div>
           </div>
           <div class="web-6 common-tab">
             <div class="service-images">
-              <img class="img-fluid w-100" src="images/service/html-css.jpg" alt="">
+              <img class="img-fluid w-100" src="/service/erp/24.png" alt="">
               <p class="inner-text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
             </div>
           </div>
